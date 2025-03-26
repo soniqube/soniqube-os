@@ -3,15 +3,21 @@ LICENSE AGREEMENT
 Copyright (c) 2025 Soniqube
 
 1. Introduction
-This Soniqube OS Linux distribution ("Software") is designed for use with the official mobile application ("Soniqube"), 
-which is a paid service available via subscription. The Software includes open-source components licensed under various terms,
-as outlined below. While the Software is freely available for use, modification and redistribution are strictly prohibited.
+This Soniqube OS Linux distribution ("Software") is designed for 
+use with the official mobile application ("Soniqube"), which is 
+a paid service available via subscription. The Software includes 
+open-source components licensed under various terms, as outlined 
+below. While the Software is freely available for use, modification 
+and redistribution are strictly prohibited.
 
 2. Usage Terms
-The Software is provided for personal and commercial use. The Software must be used only with the official mobile application.
-Modification or reverse engineering of any part of the Software is strictly prohibited.
-The included Soniqube services are proprietary and may only be used as part of this Software with the official mobile application. 
-Any external usage is prohibited. Distribution of the custom Linux image is strictly prohibited; only the original developer may distribute it via the official page.
+The Software is provided for personal and commercial use. The Software 
+must be used only with the official mobile application. Modification 
+or reverse engineering of any part of the Software is strictly prohibited.
+The included Soniqube services are proprietary and may only be used as part 
+of this Software with the official mobile application. Any external usage 
+is prohibited. Distribution of the custom Linux image is strictly prohibited; 
+only the original developer may distribute it via the official page.
 
 3. Open-Source Components
 This Software includes open-source components under their respective licenses:
@@ -32,12 +38,16 @@ Shairport-sync:
     License Terms: https://github.com/mikebrady/shairport-sync/blob/master/LICENSES
 
 4. Copyright & Ownership
-The Software, including its proprietary components, remains the intellectual property of the original developer.
-No rights to distribute, sublicense, or modify the Software are granted. Any attempt to bypass security measures, decompile, or modify the Software violates this agreement.
+The Software, including its proprietary components, remains the intellectual 
+property of the original developer. No rights to distribute, sublicense, 
+or modify the Software are granted. Any attempt to bypass security measures, 
+decompile, or modify the Software violates this agreement.
 
 5. Disclaimer of Warranty
-This Software is provided "as is", without any warranties or guarantees. The developers are not responsible for any damages, 
-loss of data, or system failures arising from the use of this Software.
+This Software is provided "as is", without any warranties or guarantees. 
+The developers are not responsible for any damages, loss of data, or system 
+failures arising from the use of this Software.
 
 6. Enforcement & Legal Compliance
-Failure to comply with this license agreement may result in legal action. By using this Software, you agree to all terms stated above.
+Failure to comply with this license agreement may result in legal action. 
+By using this Software, you agree to all terms stated above.
